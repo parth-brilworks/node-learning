@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "authorId": 1,
+    "categoryId": 1,
+    "publicationYear": 2017
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "authorId": 2,
+    "categoryId": 2,
+    "publicationYear": 1999
+  },
+  {
+    "id": 3,
+    "title": "Good Life!",
+    "authorId": 2,
+    "categoryId": 2,
+    "publicationYear": 2021
+  }
+]
